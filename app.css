@@ -18,14 +18,14 @@ body {
   
   h1{
     margin: 0;
-    font-size: 200px;
-    line-height: 200px;
+    font-size: 100px;
+    line-height: 100px;
     font-weight: 50;
   }
   
   p {
     margin: 0;
-    font-size: 25px;
+    font-size: 20px;
   }
   
   .form {
@@ -34,17 +34,17 @@ body {
       border-bottom: 3px solid #ebebeb;
       margin-top: 50px;
       width: 350px;
-      font-size: 1.9em;
+      font-size: 1.5em;
       color: white;
       padding: 5px 10px;
       background: transparent;
   }
   
   button {
-      line-height: 2.0;
+      line-height: 1.5;
       border: none;
       border:3px solid white;
-      font-size: 1.9em;
+      font-size: 1.5em;
       color: rgb(66,69,86);
       padding: 5px 30px;
       background: rgba(255,255,255,1.0);
@@ -62,3 +62,4 @@ body {
   button:hover{
     opacity: 1;
   }
+
